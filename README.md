@@ -5,5 +5,6 @@
 
 - Currently learning web languages 
 
-- *Trying to be productive*
+- :beers: *Trying to be productive*
 
+> :bento: Food
