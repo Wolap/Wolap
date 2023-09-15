@@ -8,5 +8,8 @@
 - :beers: *Trying to be productive*
 
 > :bento: Food
+>
 > :seedling: Living like a *plante verte*
+>
 > :speech_balloon: Talking ? Naaahhh
+>
