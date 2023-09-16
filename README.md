@@ -1,9 +1,9 @@
 
-:sparkles: **Hi I'm Wolap** :sparkles: 
+# :sparkles: **Hi This is Wolap's page** :sparkles: 
 
-Here you can learn about the character 
+*Here you can learn about the character* 
 
-User infos :
+## :zap: User infos :
 - :chart_with_upwards_trend: Second year Student 
 
 - :bulb: Currently learning web languages 
@@ -12,7 +12,7 @@ User infos :
 
 &nbsp;
 
-## ACTUAL SKILLS :
+## :wrench: ACTUAL SKILLS :
 
 <div align="center">
     <img src="img/html_logo.png" alt="html" height=50>
@@ -30,6 +30,10 @@ User infos :
 &nbsp;
 
 ## :page_facing_up: STATS :
+
+Music | Watch Time | Time played |
+----------------------| ------------|-----------|
+**Fav artist :** Eve, Seventeen | 3 month and 4 days | Too much idk
 
 
 &nbsp;
