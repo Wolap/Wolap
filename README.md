@@ -8,9 +8,11 @@
 
 - :bulb: Currently learning web languages 
 
-- :dizzy: Play games
+- 👾 Play games
 
-- :loud_sound: Know how to speak English and of course French 
+- 🔈 Know how to speak English and of course French 
+
+- 🦆 obviously love Ducks 
 
 - :beers: *Try to be productive*
 
@@ -37,9 +39,9 @@
 
 ## :page_facing_up: STATS :
 
-Music | Watch Time | Time played |
-----------------------| ------------|-----------|
-**Fav artist :** Eve, Seventeen | 3 month and 4 days | Too much idk
+Music | Watch Time | Time played | Petted Ducks |
+----------------------| ------------|-----------|-----------|
+**Fav artist :** Eve, Seventeen | 3 month and 4 days | Too much idk | 2 😢
 
 &nbsp;
 
@@ -61,3 +63,4 @@ Discord is the best place to find me, search wolap
 >
 > :speech_balloon: Talking ? Not a skill
 >
+
