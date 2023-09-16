@@ -45,8 +45,12 @@ Music | Watch Time | Time played |
 
 ## :mag: CONTACTS 
 
-Just search Wolap or vvolap you will find me
+```
+Just search Wolap or vvolap you will find me 
+
 Discord is the best place to find me, search wolap 
+```
+
 
 &nbsp;
 ### *Some facts about me*
