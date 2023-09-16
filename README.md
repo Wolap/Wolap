@@ -10,23 +10,26 @@ User infos :
 
 - :beers: *Trying to be productive*
 ```
+&nbsp;
 
 **ACTUAL SKILLS:** 
 
-<div style="display: flex; align-items: center;">
-    <img src="img/html_logo.png" alt="html" style="height: 50">
-    <img src="img/css_logo.png" alt="css" style="height: 45">
-    <img src="img/js_logo.png" alt="js" style="height: 50">
-    <img src="img/php_logo.png" alt="php" style="height: 50">
-    <img src="img/mysql_logo.png" alt="mysql" style="height: 30; width: 15%" >
-    <img src="img/python_logo.png" alt="python" style="height:50">
-    <img src="img/figma_logo.png" alt="figma" style="height: 50; width:">
-    <img src="img/apex_logo.png" alt="apex" style="height: 50">
+<div align="center">
+    <img src="img/html_logo.png" alt="html" height=50>
+    <img src="img/css_logo.png" alt="css" height=45>
+    <img src="img/js_logo.png" alt="js" height=50>
+    <img src="img/php_logo.png" alt="php" height=50>
+    <img src="img/mysql_logo.png" alt="mysql" height=40 width=70>
+    <img src="img/python_logo.png" alt="python" height=50>
+    <img src="img/figma_logo.png" alt="figma" height=50>
+    <img src="img/apex_logo.png" alt="apex" height=50>
 </div>
 
-<p> Oh oops ...</p>
+*Oh oops ...*
 
-Stats : 
+&nbsp;
+
+**STATS :** 
 
 
 &nbsp;
