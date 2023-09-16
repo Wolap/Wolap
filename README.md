@@ -12,7 +12,7 @@
 
 - 🔈 Know how to speak English and of course French 
 
-- 🦆 obviously love Ducks 
+- 🦆 Obviously love Ducks 
 
 - :beers: *Try to be productive*
 
@@ -63,4 +63,10 @@ Discord is the best place to find me, search wolap
 >
 > :speech_balloon: Talking ? Not a skill
 >
+&nbsp;
 
+<p align=center> 🦆 Looking foward to learn 🦆</p>
+
+<div align=center>
+    <img src="img/dance-dancing-duck.gif" alt="dancing duck">
+</div>
