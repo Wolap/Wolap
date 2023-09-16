@@ -1,18 +1,18 @@
 
 :sparkles: **Hi I'm Wolap** :sparkles: 
 
-Learn about the character 
-```
+Here you can learn about the character 
+
 User infos :
 - :chart_with_upwards_trend: Second year Student 
 
 - :bulb: Currently learning web languages 
 
 - :beers: *Trying to be productive*
-```
+
 &nbsp;
 
-**ACTUAL SKILLS:** 
+## ACTUAL SKILLS :
 
 <div align="center">
     <img src="img/html_logo.png" alt="html" height=50>
@@ -24,12 +24,12 @@ User infos :
     <img src="img/figma_logo.png" alt="figma" height=50>
     <img src="img/apex_logo.png" alt="apex" height=50>
 </div>
-
-*Oh oops ...*
-
 &nbsp;
 
-**STATS :** 
+*Oh oops ...*
+&nbsp;
+
+## :page_facing_up: STATS :
 
 
 &nbsp;
