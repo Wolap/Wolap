@@ -3,7 +3,7 @@
 
 *Here you can learn about the character* 
 
-## :zap: User infos :
+## ⚡️ User infos :
 - :chart_with_upwards_trend: Second year Student 
 
 - :bulb: Currently learning web languages 
@@ -20,7 +20,7 @@
 
 &nbsp;
 
-## :wrench: ACTUAL SKILLS :
+## 🔧 ACTUAL SKILLS :
 
 <div align="center">
     <img src="img/html_logo.png" alt="html" height=50>
@@ -37,7 +37,7 @@
 *Oh oops ...*
 &nbsp;
 
-## :page_facing_up: STATS :
+## 📄 STATS :
 
 Music | Watch Time | Time played | Petted Ducks |
 ----------------------| ------------|-----------|-----------|
