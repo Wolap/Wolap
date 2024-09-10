@@ -36,9 +36,6 @@
 - Figma
 &nbsp;
 
-*Oh oops ...*
-&nbsp;
-
 ## 📄 STATS :
 
 Music | Watch Time | Time played | Petted Ducks |
