@@ -4,7 +4,7 @@
 *Here you can learn about the character* 
 
 ## ⚡️ User infos :
-- :chart_with_upwards_trend: Second year Student 
+- :chart_with_upwards_trend: Third year Student 
 
 - :bulb: Currently learning web languages 
 
