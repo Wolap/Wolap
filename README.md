@@ -22,16 +22,18 @@
 
 ## 🔧 ACTUAL SKILLS :
 
-<div align="center">
-    <img src="img/html_logo.png" alt="html" height=50>
-    <img src="img/css_logo.png" alt="css" height=45>
-    <img src="img/js_logo.png" alt="js" height=50>
-    <img src="img/php_logo.png" alt="php" height=50>
-    <img src="img/mysql_logo.png" alt="mysql" height=40 width=70>
-    <img src="img/python_logo.png" alt="python" height=50>
-    <img src="img/figma_logo.png" alt="figma" height=50>
-    <img src="img/apex_logo.png" alt="apex" height=50>
-</div>
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+- VueJs
+- Express
+- Prisma
+- PHP
+- MySQL
+- Wordpress
+- Python
+- Figma
 &nbsp;
 
 *Oh oops ...*
@@ -48,9 +50,9 @@ Music | Watch Time | Time played | Petted Ducks |
 ## :mag: CONTACTS 
 
 ```
-Just search Wolap or vvolap you will find me 
+You will find me with my pseudo wolap but if you want a real contact :
 
-Discord is the best place to find me, search wolap 
+rippe-marianne@outlook.fr
 ```
 
 
